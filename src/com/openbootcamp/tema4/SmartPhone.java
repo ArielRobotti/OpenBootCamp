@@ -24,6 +24,5 @@ public class SmartPhone extends SmartDevice{
 		return " marca: " + marca + "\n modelo: "+ modelo+ "\n wifi: "+ wifi+ 
 				"\n displaySize: "+ displaySize + "\n doubleSim: " + doubleSim +
 				"\n cores: "+ cores + "\n generation: "+generation;
-		
 	}
 }
